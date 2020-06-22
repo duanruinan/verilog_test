@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+20:57:24
+/home/ruinan/code/verilog_test/hello_world/hello_world.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+/home/ruinan/code/verilog_test/hello_world/hello_world.srcs/sim_1/new/tb_block.v,1592796712,verilog,,,,tb_block,,,,,,,,
+/home/ruinan/code/verilog_test/hello_world/hello_world.srcs/sources_1/new/block.v,1592795877,verilog,,/home/ruinan/code/verilog_test/hello_world/hello_world.srcs/sources_1/new/unblock.v,,block,,,,,,,,
+/home/ruinan/code/verilog_test/hello_world/hello_world.srcs/sources_1/new/unblock.v,1592797083,verilog,,/home/ruinan/code/verilog_test/hello_world/hello_world.srcs/sim_1/new/tb_block.v,,unblock,,,,,,,,
